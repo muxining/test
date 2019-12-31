@@ -1,2 +1,2 @@
 select * FROM emp;
-commit;
+update emp set ename='123' where id=1
